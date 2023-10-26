@@ -1,4 +1,4 @@
-name: Issues Event
+name: Output Information
 on: workflow_dispatch
 jobs:
   detail:
